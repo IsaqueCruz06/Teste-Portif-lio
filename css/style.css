@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+}
+
+#cabecalho{
+    padding: 20px;
+    background: linear-gradient(black, rgb(58, 58, 58));
+    color: aliceblue;
+    text-align: center;
+}
+
+#titulo-navegacao{
+    padding: 5px;
+    padding-bottom: 8px;
+}
+
+#navegacao a{
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#navegacao:link,#navegacao:visited{
+    color:white
+}
+
+#navegacao a:hover{
+    color: black;
+    background-color: white;
+    border-radius:5px;
+}
+
+body{
+    font-size: 17px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
